@@ -9,3 +9,4 @@
 
 numbers = input("Enter a numbers: "). split()
 
+numbers.sort()
